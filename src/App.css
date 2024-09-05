@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,65 @@
   to {
     transform: rotate(360deg);
   }
+} */
+ 
+.container{
+ 
+  text-align: center;
+  background-color: lightgray;
+  height: 500px;
+gap: 100px;
+}
+.input{
+  height: 40px;
+  border: 3px solid orange;
+  color: darkred;
+  width: 200px;
+  border-radius: 10px;
+  font-size: large;
+  gap: 50px;
+}
+.btn{
+  background-color: aqua;
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+  font-size: large;
+  font-family: cursive;
+
+}
+.select{
+  background-color: palevioletred;
+  height: 40px;
+  width: 85px;
+  border-radius: 10px;
+  font-size: large;
+  font-family: cursive;
+ 
+}
+.btn2{
+  background-color: lightgreen;
+  height: 40px;
+  width: 85px;
+  border-radius: 10px;
+  font-size: large;
+  font-family: cursive;
+ 
+}
+.btn3{
+  background-color: violet;
+  height: 40px;
+  width: 85px;
+  border-radius: 10px;
+  font-size: large;
+  font-family: cursive;
+ 
+}
+h1{
+  background-color: blueviolet;
+  text-align: center;
+  height: 70px;
+  padding-top: 10px;
+  font-family: cursive;
+  color: darkred;
 }
